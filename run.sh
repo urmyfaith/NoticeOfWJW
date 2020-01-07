@@ -19,7 +19,7 @@ oldmsg='''武汉市卫生健康委员会关于不明原因的病毒性肺炎情�
 武汉市卫生健康委专项招聘高层次及急需紧缺人才公告
 武汉市产前筛查和产前诊断机构名单
 '''
-msg=`diff -B  <(echo "$latestContent")  <(echo "$oldmsg" | tail -n14) | tail -n1`
+msg=`diff -B  <(echo "$latestContent")  <(echo "$oldmsg") | tail -n1`
 
 if test -z "$msg"
 then
