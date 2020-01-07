@@ -25,7 +25,7 @@ if test -z "$msg"
 then
   : 
 else  
-  msg=`echo "$msg" | awk '{print $2}'`
+  msg=`echo "$latestContent" | head -n1`
   echo $msg
   time=`echo "$html" |  grep "time" |  awk -F "[\>\<]" '{print $3}' | head -n1`
   echo $time
