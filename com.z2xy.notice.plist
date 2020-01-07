@@ -4,7 +4,7 @@
 <dict>
     <!-- Label唯一的标识 -->
     <key>Label</key>
-    <string>com.z2xy.notice.plist</string>
+    <string>com.z2xy.notice</string>
     <!-- 指定要运行的脚本 -->
     <key>ProgramArguments</key>
     <array>
@@ -12,6 +12,14 @@
     </array>
     <!-- 时间间隔 -->
     <key>StartInterval</key>
-    <integer>300</integer>
+    <integer>10</integer>
+     <!-- 标准输出文件 -->
+     <key>StandardOutPath</key>
+    <string>/Users/zx/Downloads/2019marks/202001/testcmp/stdout</string>
+    <!-- 标准错误输出文件，错误日志 -->
+    <key>StandardErrorPath</key>
+    <string>/Users/zx/Downloads/2019marks/202001/testcmp/error.txt</string>
+    <key>WorkingDirectory</key>
+    <string>/Users/zx/Downloads/2019marks/202001/testcmp/</string>
 </dict>
 </plist>
