@@ -25,3 +25,4 @@
 2020-01-08 16:26:26.304 terminal-notifier[69285:443142] '' is not a valid URI.
 2020-01-08 16:31:26.494 terminal-notifier[69641:445130] '' is not a valid URI.
 2020-01-09 08:30:08.127 terminal-notifier[75544:699826] '' is not a valid URI.
+2020-01-11 18:13:51.514 terminal-notifier[54526:1801052] '' is not a valid URI.
