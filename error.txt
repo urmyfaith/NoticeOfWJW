@@ -44,3 +44,17 @@
 2020-01-15 16:12:09.438 terminal-notifier[15784:2758908] '' is not a valid URI.
 2020-01-15 16:17:39.670 terminal-notifier[16176:2761387] '' is not a valid URI.
 2020-01-15 17:17:42.719 terminal-notifier[23028:2795604] '' is not a valid URI.
+2020-01-17 12:43:26.544 terminal-notifier[21237:117248] '' is not a valid URI.
+2020-01-17 12:49:26.993 terminal-notifier[21664:119329] '' is not a valid URI.
+2020-01-17 12:55:27.317 terminal-notifier[22086:121296] '' is not a valid URI.
+2020-01-17 13:01:27.703 terminal-notifier[22541:123534] '' is not a valid URI.
+2020-01-17 13:22:28.679 terminal-notifier[24081:132919] '' is not a valid URI.
+2020-01-17 13:28:29.162 terminal-notifier[24593:137171] '' is not a valid URI.
+2020-01-17 13:34:29.520 terminal-notifier[25087:141006] '' is not a valid URI.
+2020-01-17 13:40:29.962 terminal-notifier[25630:145189] '' is not a valid URI.
+2020-01-17 13:56:30.676 terminal-notifier[26775:152529] '' is not a valid URI.
+2020-01-17 14:02:31.042 terminal-notifier[27280:156358] '' is not a valid URI.
+2020-01-17 14:08:31.456 terminal-notifier[27776:160184] '' is not a valid URI.
+2020-01-17 14:20:04.072 terminal-notifier[29940:170840] '' is not a valid URI.
+2020-01-17 14:31:20.554 terminal-notifier[32156:181874] '' is not a valid URI.
+2020-01-17 14:42:36.705 terminal-notifier[33514:189363] '' is not a valid URI.
